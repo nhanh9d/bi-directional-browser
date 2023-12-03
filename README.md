@@ -14,3 +14,7 @@ Open 2 browers side by side and add parameter:
 Try to move around the right one (as the demo is available to do so)
 
 ## Demo
+
+
+https://github.com/nhanh9d/bi-directional-browser/assets/41713343/a94805dc-d201-473b-b566-92acdc28e5a4
+
